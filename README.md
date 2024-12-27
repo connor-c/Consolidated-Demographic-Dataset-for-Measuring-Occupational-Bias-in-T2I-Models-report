@@ -1,0 +1,1 @@
+# Consolidated-Demographic-Dataset-for-Measuring-Occupational-Bias-in-T2I-Models-report
